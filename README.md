@@ -4,7 +4,7 @@
 It is a newsletter signup page.
 
 ## Preview
-![Newsletter Signup](./images/newsletterSignup.PNG)
+![Newsletter Signup](./assets/newsletterSignup.PNG)
 
 <!-- GETTING STARTED -->
 ## Getting Started
